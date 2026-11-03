@@ -1,0 +1,6 @@
+{
+  "name": "Agri-Resource & Climate Intelligence Stack",
+  "description": "An integrated hardware + software farm intelligence platform converting IoT sensor telemetry, GPS, satellite imagery, weather data, YOLO vision, and RAG GLM reasoning into farm-specific actionable recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
